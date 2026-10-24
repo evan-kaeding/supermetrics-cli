@@ -8,7 +8,7 @@ idiomatic_version_file_enable_tools = ["python"]
 # PR. This entry drives the updates — the gomod manager proposes none.
 go = "1.27.3"
 
-golangci-lint = "2.13.2"
+golangci-lint = "2.15.0"
 gotestsum = "1.13.0"
 uv = "0.12.7"
 ruff = "0.16.5"
